@@ -1,0 +1,3 @@
+[submodule "hgeometry-web/webviewhs"]
+	path = hgeometry-web/webviewhs
+	url = https://github.com/lettier/webviewhs
